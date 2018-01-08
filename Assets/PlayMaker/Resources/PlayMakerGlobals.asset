@@ -73,3 +73,6 @@ MonoBehaviour:
   - returnToInput
   - characterDeath
   - characterDamage
+  - hopperDamage
+  - shootBullet
+  - stopShooting
